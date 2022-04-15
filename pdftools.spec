@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['pdftools.py'],
-             pathex=['/Users/erixiao/virtualenvs/pdftools/src'],
+             pathex=['/pdftools/src'],
              binaries=[],
              datas=[],
              hiddenimports=[],
